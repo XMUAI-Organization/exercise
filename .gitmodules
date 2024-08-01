@@ -1,3 +1,6 @@
 [submodule "exercise_Baiye959"]
 	path = exercise_Baiye959
 	url = https://github.com/Baiye959/exercise_Baiye959.git
+[submodule "exercise_killera-real"]
+	path = exercise_killera-real
+	url = https://github.com/killera-real/exercise_killera-real.git
