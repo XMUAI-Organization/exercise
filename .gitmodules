@@ -4,3 +4,6 @@
 [submodule "exercise_killera-real"]
 	path = exercise_killera-real
 	url = https://github.com/killera-real/exercise_killera-real.git
+[submodule "exercise_orangeism"]
+	path = exercise_orangeism
+	url = https://github.com/orangeism/exercise_orangeism.git
