@@ -7,3 +7,6 @@
 [submodule "exercise_orangeism"]
 	path = exercise_orangeism
 	url = https://github.com/orangeism/exercise_orangeism.git
+[submodule "exercise_Lambchem.git"]
+	path = exercise_Lambchem.git
+	url = https://github.com/Lambchem/exercise_Lambchem.git
